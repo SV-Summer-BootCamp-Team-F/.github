@@ -7,6 +7,7 @@
 ### **http://remember-plus.site**
 
 ![Alt text](in-1.gif)
+![rememberplus9ㅡㅠ](https://github.com/SV-Summer-BootCamp-Team-F/frontend/assets/86238348/e547105c-3f5e-4eb7-9ca8-bdaf1b93f17a)
  <br>
  # ❓ WHAT IS REMEMBER PLUS?
  
