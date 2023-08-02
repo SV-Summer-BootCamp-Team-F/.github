@@ -7,7 +7,7 @@
 ### **http://remember-plus.site**
 
 
-![Alt text](intro.gif)
+![Alt text](<intro (1)-1.gif>)
  <br>
  # ❓ WHAT IS REMEMBER PLUS?
  
