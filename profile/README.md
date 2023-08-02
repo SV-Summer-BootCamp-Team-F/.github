@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h1 align="center">Remember plus+</h1>
- <h3 align="center">명함을 등록하면 자동으로 관계도를 보여주는 서비스</h3>
+ <h3 align="center">명함을 등록하면 자동으로 관계도를 생성해 주는 서비스</h3>
 </p>
 
 ### **http://remember-plus.site**
@@ -111,7 +111,7 @@
 ```
 📦remember plus
  ┣ 📂.github
- ┃ ┗ 📂workflows
+ ┃ ┗ 📂ISSUE_TEMPLATE
  ┃ ┃ ┗ 📜Deploy.yml
  ┣ 📂backend
  ┃ ┣ 📂backend
@@ -343,18 +343,18 @@ git clone https://github.com/SV-Summer-BootCamp-Team-F/RememberPlus.git
     <tr>
         <th>Pictures</th>
          <td width="100" align="center">
-            <a href="https://github.com/jung-yeon99">
-                <img src="https://avatars.githubusercontent.com/u/83697577?s=400&u=bc045ecc3192a39eb88e370299a5d1097df08a3f&v=4" width="60" height="60">
+            <a href="https://github.com/TMInstaller">
+                <img src="https://ca.slack-edge.com/T05E22RUGJW-U05DMH3H5HV-915dca6d61b1-512" width="60" height="60">
             </a>
         </td>
         <td width="100" align="center">
-             <a href="https://github.com/dlwldnjs1009">
-                <img src="https://avatars.githubusercontent.com/u/107186291?v=4" width="60" height="60">
+             <a href="https://github.com/penloo">
+                <img src="https://ca.slack-edge.com/T05E22RUGJW-U05DMH07PP1-16108f692c04-512" width="60" height="60">
             </a>
         </td>
         <td width="100" align="center">
              <a href="https://github.com/ssojungg">
-                <img src="https://avatars.githubusercontent.com/u/96862049?v=4" width="60" height="60">
+                <img src="https://ca.slack-edge.com/T05E22RUGJW-U05EEMVCS81-33550853c2cd-512" width="60" height="60">
             </a>
         </td>
         <td width="100" align="center">
@@ -363,18 +363,18 @@ git clone https://github.com/SV-Summer-BootCamp-Team-F/RememberPlus.git
             </a>
         </td>
         <td width="100" align="center">
-             <a href="https://github.com/dmswn1004">
-                <img src="https://avatars.githubusercontent.com/u/101851472?v=4" width="60" height="60">
+             <a href="https://github.com/alswl020208">
+                <img src="https://ca.slack-edge.com/T05E22RUGJW-U05E23DGWTC-3c4fac3c1acd-512" width="60" height="60">
             </a>
         </td>
         <td width="100" align="center">
-             <a href="https://github.com/zinwonzung">
-                <img src="https://avatars.githubusercontent.com/u/113844225?v=4" width="60" height="60">
+             <a href="https://github.com/rachel4w2">
+                <img src="https://ca.slack-edge.com/T05E22RUGJW-U05DVDFN0HL-bb4af676313e-512" width="60" height="60">
             </a>
         </td>
         <td width="100" align="center">
-             <a href="https://github.com/dmswn1004">
-                <img src="https://avatars.githubusercontent.com/u/101851472?v=4" width="60" height="60">
+             <a href="https://github.com/ajaj0123">
+                <img src="https://ca.slack-edge.com/T05E22RUGJW-U05ERQ7JAGG-cc773d870431-512" width="60" height="60">
             </a>
         </td>
     </tr>
@@ -413,15 +413,14 @@ git clone https://github.com/SV-Summer-BootCamp-Team-F/RememberPlus.git
             Frontend<br>
         </td>
         <td width="150" align="center">
-            Backend<br>
-            DevOps<br>
+            Frontend<br>
         </td>
     </tr>
     <tr>
         <th>GitHub</th>
         <td width="100" align="center">
             <a href="https://github.com/jung-yeon99">
-                <img src="http://img.shields.io/badge/jungyeon99-green?style=social&logo=github"/>
+                <img src=""/>
             </a>
         </td>
         <td width="100" align="center">
