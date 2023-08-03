@@ -1,10 +1,10 @@
 <p align="center">
-<img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+<img width="100px" src="https://i.ibb.co/rF96r70/image.png" align="center" alt="GitHub Readme Stats" />
 <h1 align="center">Remember plus+</h1>
 <h3 align="center">명함을 등록하면 자동으로 관계도를 생성해 주는 서비스</h3>
 </p>
 
-### **[http://remember-plus.site](http://remember-plus.site/)**
+### **[http://remember-plus.site](http://remember-plus.site/)** 
 
 ![RememberPlus](https://github.com/SV-Summer-BootCamp-Team-F/.github/assets/86238348/44a4ffd3-6da4-42e3-8181-794ac526af32)
 
@@ -29,7 +29,7 @@
 ## **3. 차별화된 디자인과 차트화**
 
 ```
-→ 한 눈에 보기 편한 UI/UX
+→ 한눈에 보기 편한 UI/UX
 → 차트를 통한 분석 ⇒ 나만의 관계 데이터 관리
 ```
 
@@ -40,7 +40,6 @@
 - [Service](#-service)
 - [ERD](#-erd)
 - [API](#-api)
-- [Monitoring Tools](#-monitoring-tools)
 - [File Directory](#-file-directory)
 - [Installation](#-installation)
 - [Member](#-member)
@@ -121,93 +120,86 @@
 ## 📂 File Directory
 
 <details>
-<summary> docker </summary>
 <aside>
-```
-📦remember plus
-  
-┣ 📂.github
 
-┣ 📂backend
+📦remember plus  
+┣ 📂.github  
+┣ 📂backend  
+┃ ┣ 📂backend  
+┃ ┃ ┣ 📜asgi.py  
+┃ ┃ ┣ 📜settings.py  
+┃ ┃ ┣ 📜url.py  
+┃ ┃ ┗ 📜wsgi.py  
+┃ ┗ 📂neo_db  
+┃   ┣ 📂migrations  
+┃   ┣ 📂static  
+┃   ┣ __init__.py  
+┃   ┣ 📜admin.py  
+┃   ┣ 📜apps.py  
+┃   ┣ 📜models.py  
+┃   ┣ 📜serializers.py  
+┃   ┣ 📜urls.py  
+┃   ┗ 📜view.py  
+┣ 📂frontend  
+┃ ┣ 📂.github  
+┃ ┣ 📂public  
+┃ ┗ 📂src  
+┃   ┣ 📂components  
+┃   ┃ ┣ 📂analytic  
+┃   ┃ ┃ ┣ 📜BarChart.tsx  
+┃   ┃ ┃ ┣ 📜Intro2Chart.tsx  
+┃   ┃ ┃ ┣ 📜IntroLineChart.tsx  
+┃   ┃ ┃ ┣ 📜LineChart.tsx  
+┃   ┃ ┃ ┣ 📜PieChart.tsx  
+┃   ┃ ┃ ┣ 📜StatisticsBox.tsx  
+┃   ┃ ┃ ┗ 📜ThreeDPieChart.tsx  
+┃   ┃ ┣ 📂card  
+┃   ┃ ┃ ┣ 📜CardInfo.tsx  
+┃   ┃ ┃ ┣ 📜CardInfoUpdateModal.tsx  
+┃   ┃ ┃ ┣ 📜CardPhotoUpdateModal.tsx  
+┃   ┃ ┃ ┗ 📜Modal.tsx  
+┃   ┃ ┣ 📂intro  
+┃   ┃ ┃ ┣ 📜Information.tsx  
+┃   ┃ ┃ ┣ 📜Slider.tsx  
+┃   ┃ ┃ ┣ 📜Sphere.tsx  
+┃   ┃ ┃ ┗ 📜Text.tsx  
+┃   ┃ ┣ 📂main  
+┃   ┃ ┃ ┣ 📜Button.tsx  
+┃   ┃ ┃ ┣ 📜ButtonEnrollModal.tsx  
+┃   ┃ ┃ ┣ 📜Card.tsx  
+┃   ┃ ┃ ┗ 📜Phone.tsx  
+┃   ┃ ┣ 📂relation  
+┃   ┃ ┃ ┣ 📜Chart.tsx  
+┃   ┃ ┃ ┣ 📜ChartContent.tsx  
+┃   ┃ ┃ ┣ 📜RelationGraph.tsx  
+┃   ┃ ┃ ┗ 📜ZoomableSVG.tsx  
+┃   ┃ ┗ 📂user  
+┃   ┃ ┃ ┣ 📜UserInfoUpdateModal.tsx  
+┃   ┃ ┃ ┣ 📜UserPhotoUpdateModal.tsx  
+┃   ┃ ┃ ┗ 📜UserProfile.tsx  
+┃   ┣ 📂css  
+┃   ┣ 📂domain  
+┃   ┣ 📂pages  
+┃   ┃ ┣ 📂Card  
+┃   ┃ ┃ ┣ 📜EnrollPage.tsx  
+┃   ┃ ┃ ┗ 📜NewEnrollPage.tsx  
+┃   ┃ ┣ 📂Login  
+┃   ┃ ┃ ┣ 📜LoginPage.tsx  
+┃   ┃ ┃ ┗ 📜SignupPage.tsx  
+┃   ┃ ┣ 📂Relation  
+┃   ┃ ┃ ┗ 📜RelationPage.tsx  
+┃   ┃ ┣ 📂User  
+┃   ┃ ┃ ┗ 📜UserPage.tsx  
+┃   ┃ ┗ 📂test  
+┃   ┣ 📂sphere  
+┃   ┃ ┗ 📂textures  
+┃   ┣ 📂types  
+┃   ┣ 📂utils  
+┃   ┣ 📜App.tsx  
+┃   ┣ 📜index.css  
+┃   ┗ 📜main.tsx  
+┗ 📂nginx  
 
-┃ ┣ 📂backend
-
-┃ ┃ ┣ 📜asgi.py
-
-┃ ┃ ┣ 📜settings.py
-
-┃ ┃ ┣ 📜url.py
-┃ ┃ ┗ 📜wsgi.py
-┃ ┗ 📂neo_db
-┃   ┣ 📂migrations
-┃   ┣ 📂static
-┃   ┣ __init__.py
-┃   ┣ 📜admin.py
-┃   ┣ 📜apps.py
-┃   ┣ 📜models.py
-┃   ┣ 📜serializers.py
-┃   ┣ 📜urls.py
-┃   ┗ 📜view.py
-┣ 📂frontend
-┃ ┣ 📂.github
-┃ ┣ 📂public
-┃ ┗ 📂src
-┃   ┣ 📂components
-┃   ┃ ┣ 📂analytic
-┃   ┃ ┃ ┣ 📜BarChart.tsx
-┃   ┃ ┃ ┣ 📜Intro2Chart.tsx
-┃   ┃ ┃ ┣ 📜IntroLineChart.tsx
-┃   ┃ ┃ ┣ 📜LineChart.tsx
-┃   ┃ ┃ ┣ 📜PieChart.tsx
-┃   ┃ ┃ ┣ 📜StatisticsBox.tsx
-┃   ┃ ┃ ┗ 📜ThreeDPieChart.tsx
-┃   ┃ ┣ 📂card
-┃   ┃ ┃ ┣ 📜CardInfo.tsx
-┃   ┃ ┃ ┣ 📜CardInfoUpdateModal.tsx
-┃   ┃ ┃ ┣ 📜CardPhotoUpdateModal.tsx
-┃   ┃ ┃ ┗ 📜Modal.tsx
-┃   ┃ ┣ 📂intro
-┃   ┃ ┃ ┣ 📜Information.tsx
-┃   ┃ ┃ ┣ 📜Slider.tsx
-┃   ┃ ┃ ┣ 📜Sphere.tsx
-┃   ┃ ┃ ┗ 📜Text.tsx
-┃   ┃ ┣ 📂main
-┃   ┃ ┃ ┣ 📜Button.tsx
-┃   ┃ ┃ ┣ 📜ButtonEnrollModal.tsx
-┃   ┃ ┃ ┣ 📜Card.tsx
-┃   ┃ ┃ ┗ 📜Phone.tsx
-┃   ┃ ┣ 📂relation
-┃   ┃ ┃ ┣ 📜Chart.tsx
-┃   ┃ ┃ ┣ 📜ChartContent.tsx
-┃   ┃ ┃ ┣ 📜RelationGraph.tsx
-┃   ┃ ┃ ┗ 📜ZoomableSVG.tsx
-┃   ┃ ┗ 📂user
-┃   ┃ ┃ ┣ 📜UserInfoUpdateModal.tsx
-┃   ┃ ┃ ┣ 📜UserPhotoUpdateModal.tsx
-┃   ┃ ┃ ┗ 📜UserProfile.tsx
-┃   ┣ 📂css
-┃   ┣ 📂domain
-┃   ┣ 📂pages
-┃   ┃ ┣ 📂Card
-┃   ┃ ┃ ┣ 📜EnrollPage.tsx
-┃   ┃ ┃ ┗ 📜NewEnrollPage.tsx
-┃   ┃ ┣ 📂Login
-┃   ┃ ┃ ┣ 📜LoginPage.tsx
-┃   ┃ ┃ ┗ 📜SignupPage.tsx
-┃   ┃ ┣ 📂Relation
-┃   ┃ ┃ ┗ 📜RelationPage.tsx
-┃   ┃ ┣ 📂User
-┃   ┃ ┃ ┗ 📜UserPage.tsx
-┃   ┃ ┗ 📂test
-┃   ┣ 📂sphere
-┃   ┃ ┗ 📂textures
-┃   ┣ 📂types
-┃   ┣ 📂utils
-┃   ┣ 📜App.tsx
-┃   ┣ 📜index.css
-┃   ┗ 📜main.tsx
-┗ 📂nginx
-```
 </aside>
 </details>
 
