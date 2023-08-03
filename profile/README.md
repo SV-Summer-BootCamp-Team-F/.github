@@ -48,8 +48,7 @@ https://github.com/SV-Summer-BootCamp-Team-F/.github/assets/86238348/4922af65-56
 <br>
 
 # 📍 System Architecture
-
-https://github.com/SV-Summer-BootCamp-Team-F/backend/assets/126966126/f6520aac-f008-49d2-83f1-0f36fbe3f933
+![시스템 아키텍처](https://github.com/SV-Summer-BootCamp-Team-F/.github/assets/86238348/725b8b4f-fcd7-40f8-b686-48c160f6130b)
 
 <br>
 
@@ -65,7 +64,7 @@ https://github.com/SV-Summer-BootCamp-Team-F/backend/assets/126966126/f6520aac-f
 
 [ Main ]<br/>
 
-!https://user-images.githubusercontent.com/83697577/216048997-68545a8c-8c24-4a86-aab3-ee2a28c8eb74.gif
+![main](https://user-images.githubusercontent.com/83697577/216048997-68545a8c-8c24-4a86-aab3-ee2a28c8eb74.gif)
 
 [ Sign Up & Login ]<br/>
 
@@ -93,7 +92,7 @@ https://github.com/SV-Summer-BootCamp-Team-F/backend/assets/126966126/f6520aac-f
 
 ## ✏ ERD
 
-https://github.com/SV-Summer-BootCamp-Team-F/backend/assets/126966126/476fb739-68b2-49b1-b598-e2f61d02218d
+![erd](https://github.com/SV-Summer-BootCamp-Team-F/.github/assets/86238348/04b7d1db-0cd1-42db-965d-b62deb7c1aa3)
 
 <br>
 
@@ -113,8 +112,6 @@ https://github.com/SV-Summer-BootCamp-Team-F/backend/assets/126966126/476fb739-6
 
 <img width="1512" alt="스크린샷 2023-08-02 오전 11 23 44" src="https://github.com/SV-Summer-BootCamp-Team-F/backend/assets/126966126/a6ace12d-9bc6-4457-871e-de7d3c2f9f3e">
 
-> Google Analytics
-<img width="1495" alt="스크린샷 2023-02-01 오후 8 38 05" src="https://user-images.githubusercontent.com/126966126/257573466-6de575b5-98d9-4552-a2e2-34b3990335b8.png">
 <img width="1495" alt="스크린샷 2023-02-01 오후 8 27 46" src="https://user-images.githubusercontent.com/101851472/216040170-c5faa809-332d-4fe9-be0c-84317c4401b8.png">
 > 
 
