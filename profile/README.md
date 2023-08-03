@@ -124,7 +124,6 @@ https://github.com/SV-Summer-BootCamp-Team-F/.github/assets/86238348/4922af65-56
 <summary> docker </summary>
 <aside>
 
-```
 📦remember plus
 ┣ 📂.github
 ┣ 📂backend
@@ -202,7 +201,6 @@ https://github.com/SV-Summer-BootCamp-Team-F/.github/assets/86238348/4922af65-56
 ┃   ┣ 📜index.css
 ┃   ┗ 📜main.tsx
 ┗ 📂nginx
-```
 
 </aside>
 </details>
@@ -328,17 +326,18 @@ Frontend<br>
 <th>GitHub</th>
 <td width="100" align="center">
 <a href="https://github.com/TMInstaller">
+<img src="http://img.shields.io/badge/TMInstaller-green?style=social&logo=github"/>
 <img src=""/>
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/penloo">
-<img src="http://img.shields.io/badge/dlwldnjs1009-green?style=social&logo=github"/>
+<img src="http://img.shields.io/badge/penloo-green?style=social&logo=github"/>
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/ssojungg">
-<img src="http://img.shields.io/badge/YuKeon97-green?style=social&logo=github"/>
+<img src="http://img.shields.io/badge/ssojungg-green?style=social&logo=github"/>
 </a>
 </td>
 <td width="100" align="center">
@@ -348,17 +347,17 @@ Frontend<br>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/alswl020208">
-<img src="http://img.shields.io/badge/dmswn1004-green?style=social&logo=github"/>
+<img src="http://img.shields.io/badge/alswl020208-green?style=social&logo=github"/>
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/rachel4w2">
-<img src="http://img.shields.io/badge/zinwonzung-green?style=social&logo=github"/>
+<img src="http://img.shields.io/badge/rachel4w2-green?style=social&logo=github"/>
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/ajaj0123">
-<img src="http://img.shields.io/badge/dmswn1004-green?style=social&logo=github"/>
+<img src="http://img.shields.io/badge/ajaj0123-green?style=social&logo=github"/>
 </a>
 </td>
 </tr>
