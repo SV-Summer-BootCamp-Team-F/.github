@@ -63,29 +63,25 @@
 
 [ Main ]<br/>
 
-![main](https://user-images.githubusercontent.com/83697577/216048997-68545a8c-8c24-4a86-aab3-ee2a28c8eb74.gif)
+![리멤버1](https://github.com/SV-Summer-BootCamp-Team-F/frontend/assets/86238348/b244a2ec-8f0a-4238-92dd-d21c6ac0a488)
+
+[ Onboarding ]<br/>
+
+![리멤버3](https://github.com/SV-Summer-BootCamp-Team-F/frontend/assets/86238348/3c739d7c-d6e9-48bc-88ba-74462c02f2e5)
 
 [ Sign Up & Login ]<br/>
 
-!https://user-images.githubusercontent.com/101851472/216041190-18eea216-f25a-4b03-a986-2c4763b78345.gif
+![리멤버6](https://github.com/SV-Summer-BootCamp-Team-F/frontend/assets/86238348/10427462-9be6-42d4-9278-1cf46d6a6e6a)
 
-[ Income ]<br/>
+[ Enroll Card ]<br/>
 
-!https://user-images.githubusercontent.com/83697577/216049109-330bceb4-bbbc-4849-be97-88276c7a0424.gif
+![리멤버5](https://github.com/SV-Summer-BootCamp-Team-F/frontend/assets/86238348/960758a5-693e-4ad9-ac31-206008cf4e05)
 
 [ Spending ]<br/>
 
-!https://user-images.githubusercontent.com/83697577/216049227-e3ef25d0-2a17-4e5a-b3d6-e3998ac7f4f4.gif
-
 [ Graph ]<br/>
 
-!https://user-images.githubusercontent.com/83697577/216049328-18cecf3b-d45f-4e14-819d-f742bf2ffbc2.gif
-
-!https://user-images.githubusercontent.com/83697577/216049379-2b3363f8-5cc9-4f67-9d5f-d1bf7e95624d.gif
-
 [ Spending Challenge ]<br/>
-
-!https://user-images.githubusercontent.com/83697577/216049546-b92c3536-a5d0-4a71-ad59-beddba9a3da4.gif
 
 <br>
 
