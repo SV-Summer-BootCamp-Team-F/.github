@@ -323,7 +323,6 @@ Frontend<br>
 <td width="100" align="center">
 <a href="https://github.com/TMInstaller">
 <img src="http://img.shields.io/badge/TMInstaller-green?style=social&logo=github"/>
-<img src=""/>
 </a>
 </td>
 <td width="100" align="center">
