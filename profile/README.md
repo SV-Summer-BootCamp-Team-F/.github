@@ -110,7 +110,7 @@
 
 <img width="1495" alt="스크린샷 2023-02-01 오후 8 27 46" src="https://user-images.githubusercontent.com/101851472/216040170-c5faa809-332d-4fe9-be0c-84317c4401b8.png">
 > 
-<img width="906" alt="image" src="https://github.com/SV-Summer-BootCamp-Team-F/.github/assets/86238348/ec93ecca-186b-4b54-8cf8-94e3b8778d44">
+<img width="1239" alt="image" src="https://github.com/SV-Summer-BootCamp-Team-F/.github/assets/86238348/7b77707e-62b1-4a20-8d87-bba3ee3b2698">
 
 
 <br>
