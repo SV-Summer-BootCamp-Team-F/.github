@@ -125,11 +125,17 @@
 <aside>
 ```
 📦remember plus
+  
 ┣ 📂.github
+
 ┣ 📂backend
+
 ┃ ┣ 📂backend
+
 ┃ ┃ ┣ 📜asgi.py
+
 ┃ ┃ ┣ 📜settings.py
+
 ┃ ┃ ┣ 📜url.py
 ┃ ┃ ┗ 📜wsgi.py
 ┃ ┗ 📂neo_db
