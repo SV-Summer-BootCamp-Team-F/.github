@@ -35,15 +35,15 @@ https://github.com/SV-Summer-BootCamp-Team-F/.github/assets/86238348/4922af65-56
 
 # 📚Table of Contents
 
-- [System Architecture](notion://www.notion.so/README-29757bb542e94a1c9992aeff0ab62c55#system-architecture)
-- [Tech Stack](notion://www.notion.so/README-29757bb542e94a1c9992aeff0ab62c55#%EF%B8%8F-tech-stack)
-- [Service](notion://www.notion.so/README-29757bb542e94a1c9992aeff0ab62c55#-service)
-- [ERD](notion://www.notion.so/README-29757bb542e94a1c9992aeff0ab62c55#-erd)
-- [API](notion://www.notion.so/README-29757bb542e94a1c9992aeff0ab62c55#-api)
-- [Monitoring Tools](notion://www.notion.so/README-29757bb542e94a1c9992aeff0ab62c55#-monitoring-tools)
-- [File Directory](notion://www.notion.so/README-29757bb542e94a1c9992aeff0ab62c55#-file-directory)
-- [Installation](notion://www.notion.so/README-29757bb542e94a1c9992aeff0ab62c55#-installation)
-- [Member](notion://www.notion.so/README-29757bb542e94a1c9992aeff0ab62c55#-member)
+- [System Architecture](#system-architecture)
+- [Tech Stack](#%EF%B8%8F-tech-stack)
+- [Service](#-service)
+- [ERD](#-erd)
+- [API](#-api)
+- [Monitoring Tools](#-monitoring-tools)
+- [File Directory](#-file-directory)
+- [Installation](#-installation)
+- [Member](#-member)
 
 <br>
 
