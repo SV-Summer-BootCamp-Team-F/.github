@@ -6,7 +6,7 @@
 
 ### **[http://remember-plus.site](http://remember-plus.site/)**
 
-https://github.com/SV-Summer-BootCamp-Team-F/.github/assets/86238348/4922af65-56a8-42db-a400-32cfdd6f5c6d
+![RememberPlus](https://github.com/SV-Summer-BootCamp-Team-F/.github/assets/86238348/44a4ffd3-6da4-42e3-8181-794ac526af32)
 
 <br>
 
@@ -123,7 +123,7 @@ https://github.com/SV-Summer-BootCamp-Team-F/.github/assets/86238348/4922af65-56
 <details>
 <summary> docker </summary>
 <aside>
-
+```
 📦remember plus
 ┣ 📂.github
 ┣ 📂backend
@@ -201,7 +201,7 @@ https://github.com/SV-Summer-BootCamp-Team-F/.github/assets/86238348/4922af65-56
 ┃   ┣ 📜index.css
 ┃   ┗ 📜main.tsx
 ┗ 📂nginx
-
+```
 </aside>
 </details>
 
