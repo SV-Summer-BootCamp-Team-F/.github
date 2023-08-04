@@ -106,10 +106,13 @@
 ### Neo4j 연동
 
 <img width="1512" alt="스크린샷 2023-08-02 오전 11 23 44" src="https://github.com/SV-Summer-BootCamp-Team-F/backend/assets/126966126/a6ace12d-9bc6-4457-871e-de7d3c2f9f3e">
-
-<img width="1495" alt="스크린샷 2023-02-01 오후 8 27 46" src="https://user-images.githubusercontent.com/101851472/216040170-c5faa809-332d-4fe9-be0c-84317c4401b8.png">
 > 
 <img width="1239" alt="image" src="https://github.com/SV-Summer-BootCamp-Team-F/.github/assets/86238348/7b77707e-62b1-4a20-8d87-bba3ee3b2698">
+
+# 📊 모니터링
+
+### prometheus, grafana
+<img width="1499" alt="스크린샷 2023-08-05 오전 2 39 27" src="https://github.com/SV-Summer-BootCamp-Team-F/.github/assets/126966126/dbdfef8e-443d-40c9-9635-9d8bcce4fd7c">
 
 
 <br>
