@@ -98,7 +98,6 @@
 
 <img width="1500" alt="스크린샷 2023-08-02 오전 1 51 38" src="https://github.com/SV-Summer-BootCamp-Team-F/backend/assets/126966126/66257358-a80c-430e-aa8a-d3229ace8964">
 <img width="1496" alt="스크린샷 2023-08-02 오전 1 51 56" src="https://github.com/SV-Summer-BootCamp-Team-F/backend/assets/126966126/7aa56d20-b2f5-441e-b098-c5f82bd1a65d">
-![neo4j](https://github.com/SV-Summer-BootCamp-Team-F/.github/assets/86238348/22ba72ef-d8c1-47c0-b731-4361351c84c0)
 
 <br>
 
