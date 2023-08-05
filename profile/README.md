@@ -76,12 +76,22 @@
 [ Enroll Card ]<br/>
 
 ![리멤버5](https://github.com/SV-Summer-BootCamp-Team-F/frontend/assets/86238348/960758a5-693e-4ad9-ac31-206008cf4e05)
+[ New Card ]<br/>
 
-[ Spending ]<br/>
+![new_card](https://github.com/SV-Summer-BootCamp-Team-F/.github/assets/126966126/01992a40-998b-4fc4-a940-b71ca30887bc)
+<br/>
 
-[ Graph ]<br/>
+[ Card Intro ]<br/>
+![intro](https://github.com/SV-Summer-BootCamp-Team-F/.github/assets/126966126/d7e9a713-0712-4691-a7da-70ae4e535d5a)
 
-[ Spending Challenge ]<br/>
+
+[ Card Relation ]<br/>
+![relation](https://github.com/SV-Summer-BootCamp-Team-F/.github/assets/126966126/6fb93c93-7815-4466-8e7e-9975833a9fe9)
+
+[ Card Relation2 ]<br/>
+![relation2](https://github.com/SV-Summer-BootCamp-Team-F/.github/assets/126966126/1ca613af-b1c0-4526-857f-03a845f3c755)
+
+
 
 <br>
 
