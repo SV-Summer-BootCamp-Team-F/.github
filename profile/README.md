@@ -4,7 +4,9 @@
 <h3 align="center">명함을 등록하면 자동으로 관계도를 생성해 주는 서비스</h3>
 </p>
 
-### **[http://remember-plus.site](http://remember-plus.site/)** 
+### **[http://remember-plus.site](http://remember-plus.site/)**
+### Medium(Eng) [**[http://remember-plus.site](http://remember-plus.site/)** ](https://medium.com/@tminstaller/siliconvalley-winter-bootcamp-remember-plus-korean-803311e5fa9c)
+### Medium(Kor) [[**[http://remember-plus.site](http://remember-plus.site/)** ](https://medium.com/@tminstaller/siliconvalley-winter-bootcamp-remember-plus-korean-803311e5fa9c)]
 
 ![RememberPlus](https://github.com/SV-Summer-BootCamp-Team-F/.github/assets/86238348/44a4ffd3-6da4-42e3-8181-794ac526af32)
 
