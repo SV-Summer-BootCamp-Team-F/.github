@@ -375,7 +375,7 @@ Frontend<br>
 
 ## 💬 Medium
 
-<b><a href="https://medium.com/@dlwldnjs1009/smart-household-account-service-9f55ec3851ec">🇺🇸 Medium English.ver </a></b><br/>
+<b><a href="https://medium.com/@tminstaller/siliconvalley-winter-bootcamp-remember-plus-3e1c5c8f3dcd">🇺🇸 Medium English.ver </a></b><br/>
 <b><a href="https://medium.com/@tminstaller/siliconvalley-winter-bootcamp-remember-plus-korean-803311e5fa9c">🇰🇷 Medium Korean.ver </a></b><br/>
 
 <div align="right">
