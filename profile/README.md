@@ -5,7 +5,7 @@
 </p>
 
 ### **[http://remember-plus.site](http://remember-plus.site/)**
-### Medium(Eng) (https://medium.com/@tminstaller/siliconvalley-winter-bootcamp-remember-plus-korean-803311e5fa9c)
+### Medium(Eng) (https://medium.com/@tminstaller/siliconvalley-winter-bootcamp-remember-plus-3e1c5c8f3dcd)
 ### Medium(Kor) (https://medium.com/@tminstaller/siliconvalley-winter-bootcamp-remember-plus-korean-803311e5fa9c)
 
 ![RememberPlus](https://github.com/SV-Summer-BootCamp-Team-F/.github/assets/86238348/44a4ffd3-6da4-42e3-8181-794ac526af32)
@@ -360,12 +360,12 @@ Frontend<br>
 </a>
 </td>
 <td width="100" align="center">
-<a href="https://github.com/rachel4w2">
+<a href="https://github.com/Yujin-Baek">
 <img src="http://img.shields.io/badge/rachel4w2-green?style=social&logo=github"/>
 </a>
 </td>
 <td width="100" align="center">
-<a href="https://github.com/ajaj0123">
+<a href="https://github.com/Ajeong-Im">
 <img src="http://img.shields.io/badge/ajaj0123-green?style=social&logo=github"/>
 </a>
 </td>
